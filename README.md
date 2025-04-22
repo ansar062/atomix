@@ -105,5 +105,3 @@ pnpm dev
 ```
 📄 License
 MIT License. Made with ❤️ by [@code.brew1](https://www.instagram.com/code.brew1/)
-
-Let me know if you want me to include shields, badges, or generate a matching logo for Atomix.

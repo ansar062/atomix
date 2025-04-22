@@ -1,0 +1,8 @@
+{
+    "name": "@atomix/core",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+      "build": "tsup src/index.ts --dts"
+    }
+  }

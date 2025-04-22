@@ -1,0 +1,12 @@
+// tsconfig.json (in root)
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@atomix/core": ["packages/core/src"],
+        "@atomix/utils": ["packages/utils/src"],
+        "@atomix/components": ["packages/ui/src"]
+      }
+    }
+  }
+  

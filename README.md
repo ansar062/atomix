@@ -49,17 +49,6 @@
 
 ---
 
-## 🧱 Package Structure
-
-atomix/ 
-├── core # Design tokens, themes, utilities 
-├── ui # Pre-built UI components (React/Vue/etc.) 
-├── styled # CSS-in-JS APIs 
-├── cli # Class extraction, themes, and tooling
-
-
----
-
 ## 🗺️ Roadmap
 
 ### Phase 1 – 🔧 Setup
@@ -86,38 +75,35 @@ atomix/
 
 ## 📦 Getting Started
 
-```bash
 # Coming soon...
 
 # Install (example)
+```bash
 npm install @atomix/core @atomix/components
+```
 
-🧠 Inspiration
+---
+
+## 🧠 Inspiration
 Atomix is inspired by the best of:
 
-💨 Tailwind CSS
+💨 [Tailwind CSS](https://tailwindcss.com)
 
-🧱 Material UI
+🧱 [Material UI](https://mui.com)
 
-💅 styled-components
+💅 [styled-components](https://styled-components.com)
 
 But we bring them together in a single, unified system.
 
 🤝 Contributing
 We welcome all contributions! Whether it’s a bug fix, feature request, or idea — please open an issue or PR.
 
-bash
-Copy
-Edit
 # Dev setup (Turborepo)
+```
 pnpm install
 pnpm dev
+```
 📄 License
-MIT License. Made with ❤️ by @yourhandle
-
-🌐 Stay Updated
-🔗 Website: atomix.dev (coming soon)
-
-🐦 Twitter: @atomixcss (coming soon)
+MIT License. Made with ❤️ by [@code.brew1](https://www.instagram.com/code.brew1/)
 
 Let me know if you want me to include shields, badges, or generate a matching logo for Atomix.
